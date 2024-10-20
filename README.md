@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Djaroephon</h1>
 <h3 align="center">passionate frontend from Aceh</h3>
 
- <h5 align="center">🌱 I’m currently learning React,Laravel, And Python</h5>
+ <h5 align="center">🌱 I’m currently learning Vue,Laravel, And Python</h5>
  
  <h6 align="center">⚡ Fun fact I love Anime</h6>
 
